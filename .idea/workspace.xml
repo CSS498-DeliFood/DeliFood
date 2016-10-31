@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc0253c6-40dd-48f3-b9ec-3fb35bfeb837" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/DeliFood/resources/testing.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="WebService.iws" />
@@ -509,7 +508,14 @@
       <option name="project" value="LOCAL" />
       <updated>1477942329837</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="deleted testing file.">
+      <created>1477942539233</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1477942539233</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -554,8 +560,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
     <MESSAGE value="added testing file" />
-    <option name="LAST_COMMIT_MESSAGE" value="added testing file" />
+    <MESSAGE value="deleted testing file." />
+    <option name="LAST_COMMIT_MESSAGE" value="deleted testing file." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
